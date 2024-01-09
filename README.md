@@ -1,7 +1,7 @@
 # SnakeGame
 A mini snake game
 
-# [Demo](https://youtu.be/sj-HXIDWKOg)
+# [Demo Link](https://youtu.be/sj-HXIDWKOg)
 
 https://github.com/AshleyXM/SnakeGame/assets/60614853/c3ece683-eb53-4040-b2b3-e92b550c957f
 
