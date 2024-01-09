@@ -2,7 +2,7 @@
  * Description: Represents the snake game, including the initialization
  * of the board, monitoring the keystroke and the game status and updating
  * the game
- * Execution: java SnakeGame [width height]
+ * Execution: java SnakeGame
  * Dependencies: PennDraw.java Board.java
  */
 
