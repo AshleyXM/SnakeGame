@@ -7,6 +7,7 @@ https://github.com/AshleyXM/SnakeGame/assets/60614853/c3ece683-eb53-4040-b2b3-e9
 
 # Functionality
 - Players use WASD to control the direction.
+- The snake stays still at the board center initially. Only after players press a key to change the direction can the snake start to move.
 - Snake cannot move reversely, for example, the snake which is moving rightward will not turn into leftward by pressing key A.
 - There are two kinds of food for the snake: the regular food which displays as a red dot is worth 10 points, and the bonus food, which displays as a pink dot and comes up in a random interval, is worth 20 points
 - Once the snake eats food, no matter which kind, it grows a body segment.
