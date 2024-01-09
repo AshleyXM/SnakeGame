@@ -8,10 +8,6 @@
 
 public class SnakeGame {
     public static void main(String[] args) {
-        if (args.length == 0) { // otherwise, print usage and exit
-            System.out.println("Usage: java SnakeGame [width height]");
-            return;
-        }
         int width = 600;
         int height = 600;
 
